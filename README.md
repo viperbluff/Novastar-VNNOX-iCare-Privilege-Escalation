@@ -50,9 +50,7 @@ Visit Endpoint given in POC with a restricted role( a role with only User view p
 Patch: Put process access control checklist for the permissions assigned to a particular User account on the backend.
 
 Thanks 
-
 Sahil Tikoo
-
 Twitter Handle: @viperbluff
 
 
