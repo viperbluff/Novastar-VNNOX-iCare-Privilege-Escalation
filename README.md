@@ -29,7 +29,7 @@ Visit Endpoint given in POC with a restricted role( a role with only User view p
 
 Visit Endpoint given in POC with a restricted role( a role with only User view privileges) User account : (GET /new/backend/enterprise/getSMTPInfo)
 
-<img width="1281" alt="image" src="https://user-images.githubusercontent.com/16098568/128647162-9e64edad-f7f2-4a7f-8d95-14cbf2bd2de8.png">
+<img width="1281" alt="image" src="https://user-images.githubusercontent.com/16098568/128648454-68129c2f-60db-42ce-bc74-fecf5f5fcd10.png">
 
 ::View Roles::
 
