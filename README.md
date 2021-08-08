@@ -6,6 +6,10 @@ Observation: When a new user is created on the Novaicare platform and added to a
 
 1. View Enterprise and SMTP Info
 
+Below POC shows the User "Test" account created with restricted role:
+
+Screenshot 2021-08-09 at 1.33.02 AM<img width="1414" alt="image" src="https://user-images.githubusercontent.com/16098568/128646824-28ae4721-4c9c-4b87-8118-386cb6f05030.png">
+
 
 
 
