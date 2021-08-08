@@ -1,4 +1,4 @@
-# Novastar-Novaicare-Privilege-Escalation
+# Novastar-Novaicare-Multiple-Privilege-Escalation-flaws
 
 Vulnerability Description: The application Novaicare developed by Xi'an NovaStar Tech Co.,Ltd which is used to centrally monitor display status of LED screens suffers from multiple Privilege Escalation Bugs.The bug lies in the poor access control management for low privileged users on the platform.
 
@@ -38,11 +38,11 @@ Visit Endpoint given in POC with a restricted role( a role with only User view p
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/16098568/128648103-c0826544-923c-4367-9de4-a6d34f621a21.png">
 
 
-Apart from the Information disclosures dicussed above due to Privilege escalation the User account with restricted role had the ability to delete Users as well from the platform, see the below POC:
+Apart from the Information disclosures dicussed above the User account with restricted role had the ability to delete Users as well from the platform, see the below POC:
 
-::Ability to Delete Users::
+::Ability to Delete Users (User account with id 45 was deleted)::
 
-Visit Endpoint given in POC with a restricted role( a role with only User view privileges) User account : (GET /new/backend/subuser/delete)
+Visit Endpoint given in POC with a restricted role( a role with only User view privileges) User account : (POST /new/backend/subuser/delete)
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/16098568/128648234-5ad9ccd3-8f24-44f6-aece-3c37ac4d740c.png">
 
