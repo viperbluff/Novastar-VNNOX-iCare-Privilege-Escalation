@@ -1,6 +1,6 @@
-# Novastar-Novaicare(VNNOX icare) [Multiple Privilege Escalation flaws]
+# Novastar-VNNOX-iCare(Novaicare) V7.16.0 [Multiple Privilege Escalation flaws]
 
-Vulnerability Description: The application Novaicare developed by Xi'an NovaStar Tech Co.,Ltd which is used to centrally monitor display status of LED screens suffers from multiple Privilege Escalation Bugs.The bug lies in the poor access control management for low privileged users on the platform.
+Vulnerability Description: The application iCare(Novaicare) developed by Xi'an NovaStar Tech Co.,Ltd on their VNNOX cloud platform v7.16.0 which is used to centrally monitor display status of LED screens suffers from multiple Privilege Escalation Bugs.The bug lies in the poor access control management for low privileged users on the platform.
 
 Severity: HIGH 
 
